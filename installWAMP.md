@@ -4,8 +4,9 @@
 ![alt text](./instalarWAMP/image.png)
 ## emvez de baixar um por um intale todos com um executável
 ![tem que escolher este pacote](./instalarWAMP/image-3.png)
-`Os arquivos para download estão aqui: [VisualCppRedist AIO All Releases](https://github.com/abbodi1406/vcredist/releases) - A página do Github está aqui: VisualCppRedist AIO
-Baixe a versão mais recente do arquivo VisualCppRedist_AIO_x86_x64.exe e execute-o como administrador, todos os VC++ redistribuíveis necessários serão instalados e quaisquer arquivos excedentes ou obsoletos serão removidos. Para garantir que tudo corra bem, você precisará desativar alguns aplicativos quando solicitado pelo instalador do Redist VC++.`
+Os arquivos para download estão aqui: [VisualCppRedist AIO All Releases](https://github.com/abbodi1406/vcredist/releases) - A página do Github está aqui: VisualCppRedist AIO<br/>
+Baixe a versão mais recente do arquivo VisualCppRedist_AIO_x86_x64.exe e execute-o como administrador, todos os VC++ redistribuíveis necessários serão instalados e quaisquer arquivos <br/>excedentes ou obsoletos serão removidos. Para garantir que tudo corra bem, você precisará desativar alguns aplicativos quando solicitado pelo instalador do Redist VC++.<br/><br/>
+
 ## pode usar um arquivo tester para saber se tem instalado todas as versões do pacote [link](https://wampserver.aviatechno.net/)
 --- Visual C++ Packages ---<br/>
 To verify that all VC ++ packages are installed and with the latest versions, you can use<br/>
