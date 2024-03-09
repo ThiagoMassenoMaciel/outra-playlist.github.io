@@ -1,6 +1,6 @@
 # Playlist do [Ansimuz](https://youtube.com/playlist?list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no&si=TT57fyrdWzp3MULc)
 
-# Step 1       `10:40`
+# Step 1  e  instalando WAMP   `10:40` --- `13:00`
 
 #### put file phaser.min.js from this [link](https://phaser.io/download/stable)
 #### criar file game.js on this root directory
