@@ -56,7 +56,7 @@ var game = new Phaser.Game(config)`<br/>
 ## depois da imagem carregada na memoria podemos usar ela e add na tela 2
 ## ![alt text](./steps_by_steps/image-14.png)
 ## armazenar a imagem como objeto dentro de uma variavel que esta dentro da função `create()` da tela 2
-![alt text](image.png)
+![alt text](./steps_by_steps/image-15.png)
 ## setei o pivot da imagem como 0,0 
 ![alt text](./steps_by_steps/image-16.png)
 ## configure para a tela do jogo ficar igual a imagem do background
