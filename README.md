@@ -15,7 +15,7 @@ window.onload = function(){
 ###### depois , colocar para acessar o servidor web local e verificar se apareceu uma tela preta e se tem erro no console.log
 <br/>
 <br/>
-*
+
 # Part 2 Phaser Scenes    `16:35` --- `17:43`
 ## criar uma variavel global com as caracteristicas ( largura , altura cor) passada como parâmetro pela instancia de um jogo Phaser no file `game.js`<br/>
 
