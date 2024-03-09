@@ -1,5 +1,5 @@
 # [link](https://wampserver.aviatechno.net/) mais organizado
-
+# [video](https://youtu.be/QXVyCunZN2s?si=bbsl2dT7mpSGno9f)
 ## o wamp usa umas bibliotecas do Microsoft VC++ e C , por isso tem que instalar os todos os pacotes
 ![alt text](./instalarWAMP/image.png)
 ## emvez de baixar um por um intale todos com um executável
