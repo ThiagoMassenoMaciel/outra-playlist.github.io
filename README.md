@@ -49,7 +49,7 @@ var game = new Phaser.Game(config)`<br/>
 <br/>
 
 # Part 3 Game Objects Images   `17:48`--`18:46`  add imagem como objeto
-## colocar imagens na pasta assents
+## colocar [imagens](https://github.com/ansimuz/getting-started-with-phaser/tree/master/part%203%20Game%20Objects%20-%20Images/assets/images) na pasta assents 
 ## crie a função preload dentro do `scene1.js`
 ## carregue a imagem background para dentro dessa função da tela 1
 ![alt text](./steps_by_steps/image-13.png)
